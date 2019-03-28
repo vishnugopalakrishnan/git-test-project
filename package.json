@@ -1,0 +1,19 @@
+{
+  "name": "git-test-project",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnugopalakrishnan/git-test-project.git"
+  },
+  "author": "Vishnu G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnugopalakrishnan/git-test-project/issues"
+  },
+  "homepage": "https://github.com/vishnugopalakrishnan/git-test-project#readme"
+}
