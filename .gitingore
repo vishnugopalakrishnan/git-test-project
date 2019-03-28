@@ -1,2 +1,4 @@
 *.idea
 ./gitversion.sh
+*.sh
+*.script
